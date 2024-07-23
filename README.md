@@ -8,7 +8,7 @@ Project using HTML , CSS , JS
 
 <div align="center" m-5>
   <kbd>
-    <img src="" />
+    <img src="https://github.com/airish-code/CODETECH-Task-2/blob/main/image.png" />
   </kbd>
 </div>
 
