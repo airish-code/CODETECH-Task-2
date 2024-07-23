@@ -8,7 +8,7 @@ https://airish-code.github.io/CODTECH-Task-1/
 
 <div align="center" m-5>
   <kbd>
-    <img src="https://github.com/airish-code/CODTECH-Task-1/blob/main/img.png" />
+    <img src="https://airish-code.github.io/CODETECH-Task-2/" />
   </kbd>
 </div>
 
