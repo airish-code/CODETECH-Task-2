@@ -2,13 +2,13 @@
 Project using HTML , CSS , JS
 
 # Demo Link 
-https://airish-code.github.io/CODTECH-Task-1/
+[https://airish-code.github.io/CODTECH-Task-1/](https://airish-code.github.io/CODETECH-Task-2/)
 
 
 
 <div align="center" m-5>
   <kbd>
-    <img src="https://airish-code.github.io/CODETECH-Task-2/" />
+    <img src="" />
   </kbd>
 </div>
 
